@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "title": "This is the amazing title 1",
+      "date": "2017-03-29T13:45:18.000Z",
+      "id": "abcd-123"
+    },
+    {
+      "title": "This is the amazing title 2",
+      "date": "2018-01-11T00:00:00.000Z",
+      "id": "abcd-124"
+    },
+    {
+      "title": "This is the amazing title 3",
+      "date": "2018-11-29T00:00:00.000Z",
+      "id": "abcd-125"
+    },
+    {
+      "title": "This is the amazing title 4",
+      "date": "2018-01-01T00:00:00.000Z",
+      "id": "abcd-126"
+    }
+  ]
+}
